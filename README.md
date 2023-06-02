@@ -13,3 +13,9 @@ Start by running `npm install` inside the project folder
 `npm run eslint` to run eslint
 `npm run build` to make a production build
 `npm run start-prod` to run your production build
+
+
+## Notes from me
+
+I had troubles with fly.io, so I can't make exercise 11.10.
+The parts that are related to that point will be avoided. Sorry for the inconvenence :(
