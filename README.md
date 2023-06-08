@@ -18,4 +18,7 @@ Start by running `npm install` inside the project folder
 ## Notes from me
 
 I had troubles with fly.io, so I can't make exercise 11.10.
+
 The parts that are related to that point will be avoided. Sorry for the inconvenence :(
+
+part 11.14 is affected, because I had to remove the deploymen step, but it could be resolved by adding "if: ${{ github.event_name == 'push' }}" on the deploymen step
